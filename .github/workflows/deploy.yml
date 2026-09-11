@@ -1,0 +1,4 @@
+env:
+  DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+  index.js
+  process.env.DISCORD_BOT_TOKEN
